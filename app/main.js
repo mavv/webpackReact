@@ -1,6 +1,6 @@
 'use strict';
 // ES6
-import MyModule from './modules/MyModule.js';
+// import MyModule from './modules/MyModule.js';
 
 
 // CommonJS 

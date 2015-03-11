@@ -7,6 +7,7 @@
   },
   "devDependencies": {
     "jest": "^0.1.39",
+    "jsx-loader": "^0.12.2",
     "webpack": "^1.7.2",
     "webpack-dev-server": "^1.7.0"
   },
